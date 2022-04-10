@@ -60,7 +60,6 @@ C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\bi
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\scopedcss\bundle\E-Commerce.WebMvc.styles.css
-C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\scopedcss\projectbundle\E-Commerce.WebMvc.bundle.scp.css
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\E-Commerce.WebMvc.csproj.CopyComplete
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\E-Commerce.WebMvc.dll
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\refint\E-Commerce.WebMvc.dll
@@ -271,4 +270,3 @@ C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\bi
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\USER\Desktop\Kurslar\Youtube\E-Commerce\E-Commerce\E-Commerce.WebMvc\obj\Debug\net6.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css

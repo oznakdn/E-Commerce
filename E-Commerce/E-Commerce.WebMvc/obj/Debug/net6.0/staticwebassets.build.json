@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "svvsyiGRc+TTpSNwhqwN+iNzwA6MQSaDE09qI0WSHW8=",
+  "Hash": "CSRgpaRCWWhcWjpai6Gfqum4olzjUyjrDqmqUf1kQzY=",
   "Source": "E-Commerce.WebMvc",
   "BasePath": "_content/E-Commerce.WebMvc",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\E-Commerce.WebMvc.styles.css",
-      "SourceId": "E-Commerce.WebMvc",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/E-Commerce.WebMvc",
-      "RelativePath": "E-Commerce.WebMvc.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\E-Commerce.WebMvc.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Commerce.WebMvc.bundle.scp.css",
-      "SourceId": "E-Commerce.WebMvc",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/E-Commerce.WebMvc",
-      "RelativePath": "E-Commerce.WebMvc.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Commerce.WebMvc.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.WebMvc\\wwwroot\\css\\site.css",
       "SourceId": "E-Commerce.WebMvc",

@@ -14,6 +14,8 @@ namespace E_Commerce.Persistence.Extensions
         public static void AddCustomServices(this IServiceCollection services, string connectionString)
         {
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
         }
     }
 }
