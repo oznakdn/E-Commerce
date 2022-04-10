@@ -19,7 +19,7 @@ namespace E_Commerce.Persistence.Repositories
 
         public void Delete(TEntity entity)
         {
-            _context.Set<TEntity>().Remove(entity);
+            _context.Entry(entity).State = EntityState.Modified;
         }
 
         public void DeleteRange(IEnumerable<TEntity> entities)
