@@ -12,11 +12,19 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\E-Commerce.Application\E-Commerce.Application.csproj" />
     <ProjectReference Include="..\E-Commerce.Persistence\E-Commerce.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Customer\Data\" />
+    <Folder Include="Areas\Customer\Models\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
