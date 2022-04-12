@@ -74,7 +74,7 @@
           "Microsoft.AspNetCore.Http.Connections": "6.0.0.0",
           "Microsoft.AspNetCore.Http": "6.0.0.0",
           "Microsoft.AspNetCore.Http.Extensions": "6.0.0.0",
-          "Microsoft.AspNetCore.Http.Features": "6.0.0.0",
+          "Microsoft.AspNetCore.Http.Features.Reference": "6.0.0.0",
           "Microsoft.AspNetCore.Http.Results": "6.0.0.0",
           "Microsoft.AspNetCore.HttpLogging": "6.0.0.0",
           "Microsoft.AspNetCore.HttpOverrides": "6.0.0.0",
@@ -421,6 +421,12 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.322.12401"
           }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/5.0.15": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0",
+          "System.IO.Pipelines": "5.0.2"
         }
       },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.3": {
@@ -1140,7 +1146,7 @@
           "Microsoft.Bcl.AsyncInterfaces": "5.0.0",
           "Microsoft.CodeAnalysis.Common": "4.0.0",
           "System.Composition": "1.0.31",
-          "System.IO.Pipelines": "5.0.1"
+          "System.IO.Pipelines": "5.0.2"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll": {
@@ -2357,7 +2363,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.IO.Pipelines/5.0.1": {},
+      "System.IO.Pipelines/5.0.2": {},
       "System.Linq/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -2862,6 +2868,7 @@
       },
       "E-Commerce.Domain/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "5.0.15",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
         },
@@ -3094,7 +3101,7 @@
         },
         "compileOnly": true
       },
-      "Microsoft.AspNetCore.Http.Features/6.0.0.0": {
+      "Microsoft.AspNetCore.Http.Features.Reference/6.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Http.Features.dll": {}
         },
@@ -4676,6 +4683,13 @@
       "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.3",
       "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Http.Features/5.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K+94zdxmXJeEBWMoIqkhgdo0gQ+wIVIqye0MrUAMI9PrCB4+PX8+jyux90XmB1iVszUAjbEW6geYq3OjYOC0Rw==",
+      "path": "microsoft.aspnetcore.http.features/5.0.15",
+      "hashPath": "microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.3": {
       "type": "package",
       "serviceable": true,
@@ -5523,12 +5537,12 @@
       "path": "system.io.filesystem.primitives/4.3.0",
       "hashPath": "system.io.filesystem.primitives.4.3.0.nupkg.sha512"
     },
-    "System.IO.Pipelines/5.0.1": {
+    "System.IO.Pipelines/5.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
-      "path": "system.io.pipelines/5.0.1",
-      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
+      "sha512": "sha512-Iew+dfa6FFiyvWBdRmXApixRY1db+beyutpIck4SOSe0NLM8FD/7AD54MscqVLhvfSMLHO7KadjTRT7fqxOGTA==",
+      "path": "system.io.pipelines/5.0.2",
+      "hashPath": "system.io.pipelines.5.0.2.nupkg.sha512"
     },
     "System.Linq/4.3.0": {
       "type": "package",
@@ -6077,7 +6091,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.AspNetCore.Http.Features/6.0.0.0": {
+    "Microsoft.AspNetCore.Http.Features.Reference/6.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

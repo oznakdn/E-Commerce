@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rkX/jFJH+9mq76nj+WMfufG7fF0F/jZT5VNPhJta3RKfj8QG/79yVGjFzjGoNIoTSYIBnhhszge8jUkY8uf56Q==",
+  "dgSpecHash": "42OrM3ZTEq+//HMm9EhTa1iTnnnXdpc6s4siBxKrIGvps8bXMvqBfQo3c4OhDLCk+YnrM/wSxJbVQzUjJ5M0fg==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Desktop\\Kurslar\\Youtube\\E-Commerce\\E-Commerce\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -42,6 +43,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

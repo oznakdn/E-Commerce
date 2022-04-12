@@ -20,6 +20,8 @@ namespace E_Commerce.Persistence.Extensions
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
+
         }
     }
 }
